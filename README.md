@@ -44,7 +44,7 @@ SpendSmart
 │
 ├── index.html
 ├── style.css
-├── app.js
+├── script.js
 └── README.md
 How to Run
 Download project files
