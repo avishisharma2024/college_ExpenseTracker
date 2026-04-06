@@ -40,6 +40,8 @@ Vanilla JavaScript
 Chart.js (for analytics graphs)
 LocalStorage (data persistence)
 Folder Structure
+
+
 SpendSmart
 │
 ├── index.html
